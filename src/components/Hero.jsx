@@ -29,7 +29,6 @@ export const Hero = () => {
             <button className='icon'>
               <AiOutlineSearch size={20} style={{ color: '#fffffff' }} />
             </button>
-            a
           </div>
         </form>
       </div>
